@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses what drives food delivery time across **50,000 orders**, looking at weather, traffic, distance, time of day and pickup → dropoff routes.
 
-![Dashboard overview](dashboard-overview.png)
+![Dashboard overview](screenshots/dashboard-overview.png)
 
 ## Objective
 
